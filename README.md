@@ -1,4 +1,6 @@
-![alt text](https://github.com/DanielMDouglas/LArDRIP/blob/main/logo.png?raw=true)
+![alt text](https://github.com/silentkartographer/LArDRIP/blob/main/logo.png?raw=true)
+
+https://github.com/silentkartographer/LArDRIP/blob/main/logo.png
 
 # LArDRIP - Liquid Argon Dead Region Inference Project
 
